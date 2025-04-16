@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/klauspost/compress/s2"
-	"github.com/redis/go-redis/v9"
+	"github.com/ad3n/go-redis/v9"
 	"github.com/vmihailenco/msgpack/v5"
 	"golang.org/x/sync/singleflight"
 )

@@ -11,7 +11,7 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/redis/go-redis/v9"
+	"github.com/ad3n/go-redis/v9"
 
 	"github.com/go-redis/cache/v9"
 )
